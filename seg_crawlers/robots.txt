@@ -1,0 +1,11 @@
+User-agent: * <para todos> ou Googlebots ou Slurp (Yahoo) ou Blingbot (Blin) ou Googlebots-images (Imagens Google) ou Adsbots-Google
+Disallow: /admin
+Disallow: /admin/config.php
+Disallow: /assets
+Disallow: /controllers
+Disallow: /models
+Disallow: /views
+Disallow: /config.php
+Disallow: /environment.php
+Allow: /teste.php
+Allow: /pesquisa
